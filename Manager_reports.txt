@@ -1,0 +1,86 @@
+====================================
+Employee Name: Ayush
+Position: Developer
+Department: Development
+Employee Number: 3243
+Project: widget 
+Phone: 83736357
+Check-in Time: 10:00
+Check-out Time: 21:00
+Working Hours: 11 hrs
+Leaves This Month: 0
+Experience: 4 years
+Performance Grade: 4.0
+Base Salary: ₹50000.0
+Final Salary: ₹45000.0
+⚠ Note: Something fishy! Working hours exceed 10 hours.
+====================================
+
+====================================
+Employee Name: Shagun 
+Position: Data scientist
+Department: Data handling
+Employee Number: 3222
+Project: widget Images
+Phone: 387638393
+Check-in Time: 9:00
+Check-out Time: 17:00
+Working Hours: 8 hrs
+Leaves This Month: 0
+Experience: 2 years
+Performance Grade: 5.0
+Base Salary: ₹90000.0
+Final Salary: ₹90000.0
+====================================
+
+====================================
+Employee Name: Manisha
+Position: Finance Analyst
+Department: Finance
+Employee Number: 4233
+Project: widget
+Phone: 737635626
+Check-in Time: 9:00
+Check-out Time: 17:00
+Working Hours: 8 hrs
+Leaves This Month: 0
+Experience: 6 years
+Performance Grade: 4.0
+Base Salary: ₹70000.0
+Final Salary: ₹70000.0
+====================================
+
+====================================
+Employee Name: Prachi
+Position: Data Scientist
+Department: Data modernization
+Employee Number: 3222
+Project: widget
+Phone: 73739303
+Check-in Time: 9:00
+Check-out Time: 18:00
+Working Hours: 9 hrs
+Leaves This Month: 0
+Experience: 3 years
+Performance Grade: 5.0
+Base Salary: ₹60000.0
+Final Salary: ₹60000.0
+====================================
+
+====================================
+Employee Name: Arjeeta 
+Position: developer
+Department: Development
+Employee Number: 3322
+Project: widget player
+Phone: 837363633
+Check-in Time: 9:00
+Check-out Time: 17:00
+Working Hours: 8 hrs
+Leaves This Month: 0
+Experience: 1 years
+Performance Grade: 5.0
+Base Salary: ₹90000.0
+Final Salary: ₹90000.0
+====================================
+
